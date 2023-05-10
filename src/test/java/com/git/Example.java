@@ -11,12 +11,6 @@ System.out.println("1");
 		}private void meth3() {
 			System.out.println("3");
 				}
-		private void meth4() {
-			System.out.println("4");
-		}
-		private void meth5() {
-			System.out.println("5");
-		}
 		
 	}
 
