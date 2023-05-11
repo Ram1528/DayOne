@@ -29,7 +29,7 @@ public class Example {
 	private void methaathu2() {
 		System.out.println("5");
 
-	}
+		}
 
 	private void methshi() {
 		System.out.println("8");
@@ -39,3 +39,10 @@ public class Example {
 		System.out.println("9");
 		
 	}
+	private void methram1() {
+		System.out.println("8");
+	}
+	private void methram2() {
+		System.out.println("9");
+	}
+}
